@@ -1,5 +1,5 @@
 {
-  "name": "diffview.nvim",
+  "name": "@softvisio/diffview.nvim",
   "private": true,
   "description": "Fork of diffview.nvim",
   "homepage": "https://github.com/zdm/diffview.nvim",
