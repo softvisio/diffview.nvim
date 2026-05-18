@@ -2,7 +2,7 @@
   "name": "@neovim-plugins/diffview.nvim",
   "private": true,
   "description": "Fork of sindrets/diffview.nvim",
-  "homepage": "https://github.com/neovim-plugins/diffview.nvim",
+  "homepage": "https://github.com/neovim-plugins/diffview.nvim?tab=readme-ov-file#readme",
   "bugs": {
     "url": "https://github.com/neovim-plugins/diffview.nvim/issues",
     "email": "root <root@softvisio.net>"
